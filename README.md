@@ -1,2 +1,2 @@
 # Virtual-RFID-Based-Solar-Charging-
-Virtual RFID Based Solar Charging is a software-based smart charging system that simulates RFID authentication, solar energy monitoring, and virtual charging management without hardware. It demonstrates renewable energy integration with smart access control for EV and IoT applications.
+Virtual RFID Based Solar Charging is a Flask-based smart EV charging simulation with RFID authentication, wallet recharge, and charging management. It features a futuristic UI and demonstrates virtual renewable energy charging concepts without physical hardware
